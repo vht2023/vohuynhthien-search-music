@@ -14,8 +14,8 @@ This is a responsive React application that allows users to search for music inf
 
 # Installation
 
-1. Clone the repository: git clone https://github.com/your-username/your-repo.git
-2. Navigate to the project directory: cd your-repo
+1. Clone the repository: git clone https://github.com/vht2023/vohuynhthien-search-music.git
+2. Navigate to the project directory: cd vohuynhthien-search-music
 3. Install the dependencies: npm install
 
 # Usage
